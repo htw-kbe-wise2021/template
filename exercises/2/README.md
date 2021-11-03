@@ -80,7 +80,7 @@ In diesem Beleg bauen sie darauf auf und nutzen eine Datenbank. Zudem erweitern 
    ```json
    {
     "name": "SongList123",
-    "songList": [
+    "songs": [
        {
           "id": 5,
           "title": "We Built This City",
@@ -124,7 +124,7 @@ In diesem Beleg bauen sie darauf auf und nutzen eine Datenbank. Zudem erweitern 
     {
      "id": SONG_ID
      "name": "SongList123",
-     "songList": [
+     "songs": [
         {
            "id": 5,
            "title": "We Built This City",
